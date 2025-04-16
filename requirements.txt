@@ -1,1 +1,4 @@
-streamlit requests ibm-cos-sdk
+streamlit 
+requests 
+ibm-cos-sdk
+ibm_boto_3
